@@ -1,6 +1,6 @@
 {
   "name": "@omid/button",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "main": "index.tsx",
   "types": "index.tsx",
   "scripts": {

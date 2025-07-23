@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "components/*"
+  ],
+  "devDependencies": {
+    "@storybook/react-vite": "^9.0.18",
+    "@types/node": "^20.0.0",
+    "lerna": "^8.2.3",
+    "storybook": "^9.0.18"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  }
+}

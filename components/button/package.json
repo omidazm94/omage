@@ -1,0 +1,27 @@
+{
+  "name": "@omid/button",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "types": "index.tsx",
+  "scripts": {
+    "build": "tsc --project ../../tsconfig.json"
+  },
+  "keywords": [
+    "react",
+    "button",
+    "component",
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A customizable React button component with TypeScript support",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

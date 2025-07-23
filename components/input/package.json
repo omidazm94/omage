@@ -1,0 +1,28 @@
+{
+  "name": "@omid/input",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "types": "index.tsx",
+  "scripts": {
+    "build": "tsc --project ../../tsconfig.json"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "component",
+    "ui",
+    "form"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A customizable React input component with TypeScript support",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

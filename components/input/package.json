@@ -1,5 +1,5 @@
 {
-  "name": "@omid/input",
+  "name": "@omage/input",
   "version": "1.0.1-alpha.0",
   "main": "index.tsx",
   "types": "index.tsx",
@@ -16,6 +16,9 @@
   "author": "",
   "license": "ISC",
   "description": "A customizable React input component with TypeScript support",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -24,5 +27,6 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "typescript": "^5.0.0"
-  }
+  },
+  "gitHead": "25d0344b0bd47d58cda22ce724a28bbdcae77c08"
 }

@@ -13,7 +13,7 @@
     "ui",
     "form"
   ],
-  "author": "",
+  "author": "omidazm94",
   "license": "ISC",
   "description": "A customizable React input component with TypeScript support",
   "publishConfig": {

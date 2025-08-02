@@ -12,7 +12,7 @@
     "component",
     "ui"
   ],
-  "author": "",
+  "author": "omidazm94",
   "license": "ISC",
   "description": "A customizable React button component with TypeScript support",
   "publishConfig": {

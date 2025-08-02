@@ -1,6 +1,6 @@
 {
   "name": "@omage/button",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.1",
   "main": "index.tsx",
   "types": "index.tsx",
   "scripts": {
